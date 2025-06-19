@@ -1,1 +1,3 @@
-# text-mining-corporate-disclosures
+# Description
+
+Text mining tool made to analyse corporate disclosures semantics
