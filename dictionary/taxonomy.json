@@ -1,0 +1,55 @@
+{
+    "Environmental":{
+        "Emissions":{
+            "CO2":[
+                "Carbon dioxide",
+                "Carbon monoxide",
+                "Nitrous oxide",
+                "Sulfur dioxide",
+                "Ammonia",
+                "Hydrochloric acid",
+                "Hydrofluoric acid",
+                "Sulfuric acid",
+                "Nitric acid",
+                "Ammonium nitrate",
+                "Ammonium sulfate",
+                "Ammonium chloride"
+            ]
+        },
+        "Water":{
+            "Water Usage":[
+                "Water usage",
+                "Water consumption",
+                "Water treatment",
+                "Water recycling",
+                "Water reuse",
+                "Water conservation",
+                "Water efficiency"
+            ]
+        }
+    },
+    "Social":{
+        "Human Rights":{
+            "Forced Labor":[
+                "Forced labor",
+                "Child labor",
+                "Forced child labor",
+                "Forced labor",
+                "Child labor",
+                "Forced child labor",
+                "Forced labor",
+                "Child labor",
+                "Forced child labor"
+            ]
+        }
+    },
+    "Governance":{
+        "Board of Directors":{
+            "Board of Directors":[
+                "Board of Directors",
+                "Board members",
+                "Board members"
+            ]
+        }
+    }
+}
